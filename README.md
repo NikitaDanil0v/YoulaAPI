@@ -6,7 +6,6 @@ Working package to Buy virtual phone numbers on web-service OnlineSim.ru and app
 
 Buy virtual phone number on OnlineSim -> Create account on Youla.io -> Store account in CSV file -> Apply bonuses on Youla.io
 
-### Inside
 - Virtual phone numbers
 - Random names for users profile
 - Server API
