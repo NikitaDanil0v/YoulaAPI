@@ -1,6 +1,6 @@
 # Youla.io API #
 
-Working package to Buy virtual phone number on web-service OnlineSim.ru and apply bonuses on advertisements website Youla.io
+Working package to Buy virtual phone numbers on web-service OnlineSim.ru and apply bonuses on advertisements website Youla.io
 
 ### Scheme
 
