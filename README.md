@@ -1,9 +1,13 @@
 # Youla.io API #
 
-Working script to buy virtual phone number on web-service OnlineSim.ru and apply bonuses on advertisements website Youla.io
+Working package to Buy virtual phone number on web-service OnlineSim.ru and apply bonuses on advertisements website Youla.io
+
+### Scheme
+
+Buy virtual phone number on OnlineSim -> Create account on Youla.io -> Store account in CSV file -> Apply bonuses on Youla.io
 
 ### Inside
-- Virtual numbers
+- Virtual phone numbers
 - Random names for users profile
 - Server API
 - Proxies
