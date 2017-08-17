@@ -20,9 +20,11 @@ Get your API key on http://onlinesim.ru website for OnlineSim service and change
 self.api_key = ["xxxxxx"] #your api_key here
 ```
 
-### Buy bonuses
+### Buy Accounts
 
-- Buy Accounts.bat
+```sh
+run Buy Accounts.bat
+```
 
 or
 
@@ -32,7 +34,9 @@ python master.py
 
 ### Apply Bonuses
 
-- Apply Bonuses.bat
+```sh
+run Apply Bonuses.bat
+```
 
 or
 
