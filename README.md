@@ -23,7 +23,7 @@ self.api_key = ["xxxxxx"] #your api_key here
 ### Buy Accounts
 
 ```sh
-run Buy Accounts.bat
+run "Buy Accounts.bat"
 ```
 
 or
@@ -35,7 +35,7 @@ python master.py
 ### Apply Bonuses
 
 ```sh
-run Apply Bonuses.bat
+run "Apply Bonuses.bat"
 ```
 
 or
